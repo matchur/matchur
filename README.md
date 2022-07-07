@@ -52,6 +52,7 @@
 <p align="left">
 
 <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
+<a href="https://gamemaker.io/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/gamemaker-icon/gamemaker-icon-13.jpg" alt="GameMaker" width="40" height="40"/> </a> 
 
 </p>
 
