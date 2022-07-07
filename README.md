@@ -19,7 +19,7 @@
 
 <p align="left">
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://img2.gratispng.com/20180419/ueq/kisspng-javafx-scene-builder-fxml-jar-mobile-app-developme-builder-5ad89537135646.2692307815241434150792.jpg" alt="javaFX" width="40" height="40"/> </a>  
+<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" alt="javaFX" width="40" height="40"/> </a>  
 
 </p>
 
