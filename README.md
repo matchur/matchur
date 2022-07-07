@@ -7,7 +7,6 @@
 
 ##Linguagens e Ferramentas:
 
-<p align="left">
 
 <h3 align="left">Linguagens de Programação:</h3>
 
