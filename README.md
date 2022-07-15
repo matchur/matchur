@@ -1,11 +1,11 @@
-### E ai meu chapa
+### E ai!! Seja bem-vindo a minha pagina do Github
 
-<h4> Espiando um pouquinho né, haha seja bem-vindo 😁 </h4>
+<h4> Espiando um pouquinho né, haha fique a vontade😁 </h4>
 
 
 <h3> Informações sobre o Github </h3>
 
-##Linguagens e Ferramentas:
+<h2>Linguagens e Ferramentas:
 
 
 <h3 align="left">Linguagens de Programação:</h3>
