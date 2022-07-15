@@ -1,9 +1,14 @@
 ### E ai!! Seja bem-vindo a minha pagina do Github
 
 <h4> Espiando um pouquinho né, haha fique a vontade😁 </h4>
-
+👨‍💻  Ciência da Computação - UTFPR
+📫  ma.usv@hotmail.com
 
 <h3> Informações sobre o Github </h3>
+
+
+<p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&locale=pt-br" alt="matchur" /></p>
+<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matchur&" alt="matchur" /></p>
 
 <h2>Linguagens e Ferramentas:
 
@@ -93,6 +98,3 @@
 
 
 
-
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&locale=pt-br" alt="matchur" /></p>
