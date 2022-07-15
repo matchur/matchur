@@ -7,8 +7,8 @@
 <h3> Informações sobre o Github </h3>
 
 
-<p>&nbsp;<img align="left" width = "200" src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&locale=pt-br" alt="matchur" /></p>
-<p><img align="left" width = "200" src="https://github-readme-streak-stats.herokuapp.com/?user=matchur&" alt="matchur" /></p>
+<p>&nbsp;<img align="left" width = "440" src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&locale=pt-br" alt="matchur" /></p>
+<p><img align="right" width = "440" src="https://github-readme-streak-stats.herokuapp.com/?user=matchur&" alt="matchur" /></p>
 
 
 <h2>Linguagens e Ferramentas:
