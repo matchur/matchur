@@ -1,11 +1,12 @@
 ### E ai!! Seja bem-vindo a minha pagina do Github
 
 <h4> Espiando um pouquinho né, haha fique a vontade😁 </h4>
-Olá, meu nome é Matheus, tenho 25 anos, sou estudante de Ciência da Computação na UTFPR e intusiasta nerd, gosto de desenvolver aplicações desktop mas também possuo conhecimento nas áreas de web e mobile. Gosto de desenvolver games, mesmo que eles não fiquem tão bons me divirto fazendo, aqui na minha página você vai encontrar alguns de meus projetos, se quiser saber mais sobre mim ou tiver uma proposta de emprego 👀 você pode me encontrar nas minhas redes socias:
+Olá, meu nome é Matheus, tenho 25 anos, sou estudante de Ciência da Computação na UTFPR e intusiasta nerd. Gosto de desenvolver aplicações desktop mas também possuo conhecimento nas áreas de web e mobile. Passo meu tempo desenvolvendo games, mesmo que eles não fiquem tão bons, me divirto fazendo 😂, aqui na minha página você vai encontrar alguns de meus projetos, se quiser saber mais sobre mim ou tiver uma proposta de emprego 👀 você pode me encontrar nas minhas redes socias:
 <br>
 <br>
 <div> 
    <a href="https://www.instagram.com/m4tchur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://open.spotify.com/user/hgc7ly5yjryzt3qgvo4uab77y?si=daa7d45097af43e8" target="_blank"><img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a> 
   <a href = "mailto:ma.usv@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
@@ -16,8 +17,10 @@ Olá, meu nome é Matheus, tenho 25 anos, sou estudante de Ciência da Computaç
 <div align = "center">
 <p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&theme=chartreuse-dark&locale=pt-br&count_private=true"  alt="matchur" /></p>
 
+
 <p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=matchur&layout=compact&theme=chartreuse-dark&locale=pt-br"  alt="matchur" /></p>
 </div>
+
 
 <h2>Linguagens e Ferramentas:
 
