@@ -1,15 +1,23 @@
 ### E ai!! Seja bem-vindo a minha pagina do Github
 
 <h4> Espiando um pouquinho né, haha fique a vontade😁 </h4>
-👨‍💻  Ciência da Computação - UTFPR
-📫  ma.usv@hotmail.com
+Olá, meu nome é Matheus, tenho 25 anos, sou estudante de Ciência da Computação na UTFPR e intusiasta nerd, gosto de desenvolver aplicações desktop mas também possuo conhecimento nas áreas de web e mobile. Gosto de desenvolver games, mesmo que eles não fiquem tão bons me divirto fazendo, aqui na minha página você vai encontrar alguns de meus projetos, se quiser saber mais sobre mim ou tiver uma proposta de emprego 👀 você pode me encontrar nas minhas redes socias:
+<br>
+<br>
+<div> 
+   <a href="https://www.instagram.com/m4tchur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:ma.usv@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<h3> Informações sobre o Github </h3>
+</div>
+<br>
+<br>
 
 
-<p>&nbsp;<img  width = "420" src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&locale=pt-br" alt="matchur" /></p>
-<p><img  width = "420" src="https://github-readme-streak-stats.herokuapp.com/?user=matchur&" alt="matchur" /></p>
+<div align = "center">
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&theme=chartreuse-dark&locale=pt-br&count_private=true"  alt="matchur" /></p>
 
+<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=matchur&layout=compact&theme=chartreuse-dark&locale=pt-br"  alt="matchur" /></p>
+</div>
 
 <h2>Linguagens e Ferramentas:
 
