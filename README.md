@@ -8,7 +8,8 @@
 
 
 <p>&nbsp;<img align="left" src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&locale=pt-br" alt="matchur" /></p>
-<p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=matchur&" alt="matchur" /></p>
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=matchur&" alt="matchur" /></p>
+
 
 <h2>Linguagens e Ferramentas:
 
