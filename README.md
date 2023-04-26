@@ -1,7 +1,7 @@
 ### E ai!! Seja bem-vindo a minha pagina do Github
 
 <h4> Espiando um pouquinho né, haha fique a vontade😁 </h4>
-Olá, meu nome é Matheus, tenho 25 anos, sou estudante de Ciência da Computação. Gosto de desenvolver aplicações desktop mas também possuo conhecimento nas áreas de web e mobile. Passo meu tempo desenvolvendo games, mesmo que eles não fiquem tão bons, me divirto fazendo 😂, aqui na minha página você vai encontrar alguns de meus projetos, se quiser saber mais sobre mim ou tiver uma proposta de emprego 👀 você pode me encontrar nas minhas redes socias:
+Olá, meu nome é Matheus, tenho 25 anos, sou estudante de Ciência da Computação. Gosto de desenvolver aplicações desktop mas também possuo conhecimento básico nas áreas de web e mobile. Passo meu tempo desenvolvendo games, mesmo que eles não fiquem tão bons, me divirto fazendo 😂, aqui na minha página você vai encontrar alguns de meus projetos, se quiser saber mais sobre mim ou tiver uma proposta de emprego 👀 você pode me encontrar nas minhas redes socias:
 <br>
 <br>
 <div> 
