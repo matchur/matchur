@@ -1,112 +1,47 @@
-### E ai!! Seja bem-vindo a minha pagina do Github
+### Olá! 👋 Bem-vindo ao meu GitHub!
 
-<h4> Espiando um pouquinho né, haha fique a vontade😁 </h4>
-Olá, meu nome é Matheus, tenho 26 anos, sou estudante de Ciência da Computação. Gosto de desenvolver aplicações desktop mas também possuo conhecimento nas áreas de web e mobile. Passo meu tempo desenvolvendo games, e aqui na minha página você vai encontrar alguns de meus projetos, se quiser saber mais sobre mim ou tiver alguma proposta de projeto/emprego você pode me encontrar nas minhas redes socias:
-<br>
-<br>
-<div> 
+#### Espiando um pouquinho né? Haha, fique à vontade 😁
+
+Olá, meu nome é Matheus, tenho 26 anos, e sou estudante de Ciência da Computação. Gosto de desenvolver aplicações desktop, mas também possuo conhecimentos em web e mobile. Passo meu tempo desenvolvendo jogos, e aqui na minha página você encontrará alguns dos meus projetos.
+
+Se quiser saber mais sobre mim ou tiver alguma proposta de projeto/emprego, você pode me encontrar nas minhas redes sociais:
+
+<div align="center">
    <a href="https://www.instagram.com/m4tchur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-   <a href="https://open.spotify.com/user/hgc7ly5yjryzt3qgvo4uab77y?si=daa7d45097af43e8" target="_blank"><img src= "https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"> </a> 
-  <a href = "mailto:ma.usv@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-
-</div>
-<br>
-<br>
-
-
-<div align = "center">
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&theme=chartreuse-dark&locale=pt-br&count_private=true"  alt="matchur" /></p>
-
-
-<p>&nbsp;<img   src="https://github-readme-stats.vercel.app/api/top-langs/?username=matchur&layout=compact&theme=chartreuse-dark&locale=pt-br"  alt="matchur" /></p>
+   <a href="https://open.spotify.com/user/hgc7ly5yjryzt3qgvo4uab77y?si=daa7d45097af43e8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
+   <a href="mailto:ma.usv@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 
+### Estatísticas:
 
-<h2>Linguagens e Ferramentas:
+<div align="center">
+   <img src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&theme=chartreuse-dark&locale=pt-br&count_private=true" alt="matchur" />
+   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matchur&layout=compact&theme=chartreuse-dark&locale=pt-br" alt="matchur" />
+</div>
 
+### Linguagens e Ferramentas:
 
-<h3 align="left">Linguagens de Programação:</h3>
+Vamos adicionar esses componentes ao seu README, organizando-os em suas respectivas seções:
 
+#### Sistemas Operacionais:
 
+ [![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)](https://www.android.com/) [![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)](https://www.debian.org/) [![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)](https://www.kali.org/) [![macOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)](https://www.apple.com/macos) [![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)](https://ubuntu.com/) [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://www.microsoft.com/windows)
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a><a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a><a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a><a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>
+#### Linguagens de Programação:
+ [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://docs.microsoft.com/en-us/dotnet/csharp/) [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![HTML](https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML) [![CSS](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS) [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) [![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/) [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language)) [![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)](https://www.cplusplus.com/) [![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)](https://www.arduino.cc/)  [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)](https://www.java.com/) 
 
+#### Frameworks e Bibliotecas:
 
-<h3 align="left">Frontend:</h3>
+[![Lua](https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)](https://www.lua.org/) [![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](https://reactjs.org/) [![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)](https://spring.io/) [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/) [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com/) [![Unity](https://img.shields.io/badge/Unity-100000?style=for-the-badge&logo=unity&logoColor=white)](https://unity.com/)
 
-<p align="left">
+#### Softwares:
+ [![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)](https://www.blender.org/) [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/) [![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6)](https://www.adobe.com/products/xd.html) [![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black)](https://www.adobe.com/products/photoshop.html)
 
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a><a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a><a href="https://openjfx.io/" target="_blank" rel="noreferrer"> <img src="https://www.qfs.de/fileadmin/Webdata/logos-icons/JavaFX.png" alt="javaFX" width="40" height="40"/> </a>  
+#### Ferramentas de Desenvolvimento:
+ [![Atom](https://img.shields.io/badge/Atom-66595C?style=for-the-badge&logo=Atom&logoColor=white)](https://atom.io/) [![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](https://visualstudio.microsoft.com/) [![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
-</p>
+#### Produtividade e Ferramentas de Escritório:
+ [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019) [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word) [![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)](https://prezi.com/) [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
 
-<h3 align="left">Banco de dados:</h3>
-
-<p align="left">
-
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a><a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a><a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a><a href="https://www.h2database.com/html/main.html" target="_blank" rel="noreferrer"> <img src="http://www.h2database.com/html/images/h2-logo-2.png" alt="h2" width="60" height="40"/> </a>  
-
-
-
-</p>
-
-<h3 align="left">Devops:</h3>
-
-<p align="left">
-
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-
-</p>
-
-<h3 align="left">Softwares:</h3>
-
-<p align="left">
-
-<a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a><a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a><a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> 
-<a href="https://octave.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/Gnu-octave-logo.svg" alt="octave" width="40" height="40"/> </a><a href="https://www.vegascreativesoftware.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Vegas_Pro_15.0.png" alt="VegasPro" width="40" height="40"/> </a>
-
-
-
-
-</p>
-
-<h3 align="left">Motores de Jogos:</h3>
-
-<p align="left">
-
-<a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
-<a href="https://gamemaker.io/" target="_blank" rel="noreferrer"> <img src="https://icon-library.com/images/gamemaker-icon/gamemaker-icon-13.jpg" alt="GameMaker" width="40" height="40"/> </a> 
-<a href="https://phaser.io/" target="_blank" rel="noreferrer"> <img src="https://phaser.io/images/logo/logo-download-vector.png" alt="phaser" width="40" height="40"/> </a> 
-
-
-
-</p>
-
-<h3 align="left">Outros:</h3>
-
-<p align="left">
-
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a>
-
-</p>
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+#### Outros:
+[![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/firefox/) [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.com/chrome/)
