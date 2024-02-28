@@ -2,9 +2,9 @@
 
 #### Espiando um pouquinho né? Haha, fique à vontade 😁
 
-Meu nome é Matheus, tenho 26 anos, sou estudante de Ciência da Computação e apaixonado por desenvolver. 
+Meu nome é Matheus, tenho 26 anos, sou estudante de Ciência da Computação e apaixonado por desenvolvimento Desktop, Web, Mobile...
 
-Aqui na minha página você encontrará alguns dos meus projetos. Estou subindo aos poucos os tantos projetos que tenho, enquanto isso, fique a vontade para navegar pelos repositórios.
+Aqui na minha página você encontrará alguns dos meus projetos. Estou subindo aos poucos os tantos outros que tenho, enquanto isso, fique a vontade para navegar pelos repositórios.
 
 Se quiser saber mais sobre mim ou tiver alguma proposta de projeto/emprego, você pode me encontrar nas minhas redes sociais:
 
