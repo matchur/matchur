@@ -2,7 +2,7 @@
 
 #### Espiando um pouquinho né? Haha, fique à vontade 😁
 
-Meu nome é Matheus, sou estudante de Ciência da Computação e apaixonado por desenvolvimento Desktop, Web e Mobile...
+Meu nome é Matheus, sou estudante de Ciência da Computação e apaixonado por desenvolvimento Desktop, Web e Mobile.
 
 Aqui na minha página você encontrará alguns dos meus projetos. Estou subindo aos poucos os tantos outros que tenho, enquanto isso, fique a vontade para navegar pelos repositórios.
 
