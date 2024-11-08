@@ -6,7 +6,6 @@ Meu nome é Matheus, sou estudante de Ciência da Computação e apaixonado por 
 
 Aqui na minha página você encontrará alguns dos meus projetos, fique a vontade para navegar pelos repositórios.
 
-Se quiser saber mais sobre mim ou tiver alguma proposta de projeto/emprego, você pode me encontrar nas minhas redes sociais:
 
 <div align="center">
    <a href="https://www.instagram.com/m4tchur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
