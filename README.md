@@ -4,7 +4,7 @@
 
 Meu nome é Matheus, sou estudante de Ciência da Computação e apaixonado por desenvolvimento Desktop, Web e Mobile.
 
-Aqui na minha página você encontrará alguns dos meus projetos, fique a vontade para navegar pelos repositórios.
+Aqui você encontrará alguns dos meus projetos, fique a vontade para navegar pelos repositórios.
 
 
 <div align="center">
