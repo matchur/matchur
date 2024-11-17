@@ -1,8 +1,4 @@
-### Olá! 👋 Bem-vindo ao meu GitHub!
-
-#### Espiando um pouquinho né? Haha, fique à vontade 😁
-
-Meu nome é Matheus, sou estudante de Ciência da Computação e apaixonado por desenvolvimento Desktop, Web e Mobile.
+### Olá! Bem-vindo ao meu GitHub!
 
 Aqui você encontrará alguns dos meus projetos, fique a vontade para navegar pelos repositórios.
 
