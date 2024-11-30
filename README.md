@@ -1,4 +1,4 @@
-<img src="header_1.gif" alt="Header GIF">
+<img src="header_2.gif" alt="Header GIF">
 
 # Hello! Welcome to my GitHub Profile!
 
