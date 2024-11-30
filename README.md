@@ -1,3 +1,5 @@
+<img src="header_1.gif" alt="Header GIF">
+
 # Hello! Welcome to my GitHub Profile!
 
 Here, you'll find a collection of my projects, showcasing my skills and interests in various technologies. Feel free to explore the repositories.
