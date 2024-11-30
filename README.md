@@ -1,3 +1,8 @@
+<style>
+   td, th {
+      border: none!important;
+   }
+</style>
 # Hello! Welcome to my GitHub Profile!
 
 Here, you'll find a collection of my projects, showcasing my skills and interests in various technologies. Feel free to explore the repositories.
@@ -14,11 +19,7 @@ Some insights into my GitHub activity and the languages I use the most.
 ### Languages and Tools:
 Below is a list of programming languages, frameworks, and tools that I frequently use and enjoy working with.
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>
+
 
 <table>
    <tr>
