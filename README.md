@@ -1,8 +1,3 @@
-<style>
-   td, th {
-      border: none!important;
-   }
-</style>
 # Hello! Welcome to my GitHub Profile!
 
 Here, you'll find a collection of my projects, showcasing my skills and interests in various technologies. Feel free to explore the repositories.
@@ -43,9 +38,6 @@ Below is a list of programming languages, frameworks, and tools that I frequentl
 
    #### Productivity and Office Tools
    [![Microsoft Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/excel) [![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/get-started-with-office-2019) [![Microsoft Word](https://img.shields.io/badge/Microsoft_Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/word) [![Prezi](https://img.shields.io/badge/Prezi-3181FF?style=for-the-badge&logo=prezi&logoColor=white)](https://prezi.com/) [![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)](https://trello.com/)
-
-   #### Productivity and Office Tools
-   [![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/firefox/) [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.com/chrome/)
       </td>
       <td  width="40%">
             <img src="galaxy_1.gif" alt="Galaxy GIF" width="296px">
