@@ -44,6 +44,7 @@ Below is a list of programming languages, frameworks, and tools that I frequentl
          </td>
    </tr>
 </table>
+
 # Let's Connect!
 
 If you have any questions, suggestions, or just want to chat, feel free to reach out through my social media or email. I’m always open to collaboration and new ideas!
