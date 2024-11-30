@@ -1,12 +1,7 @@
-### Hello! Welcome to my GitHub Profile!
+# Hello! Welcome to my GitHub Profile!
 
 Here, you'll find a collection of my projects, showcasing my skills and interests in various technologies. Feel free to explore the repositories.
 
-<div align="center">
-   <a href="https://www.instagram.com/m4tchur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-   <a href="https://open.spotify.com/user/hgc7ly5yjryzt3qgvo4uab77y?si=daa7d45097af43e8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
-   <a href="mailto:ma.usv@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</div>
 
 ### GitHub Stats
 Some insights into my GitHub activity and the languages I use the most.
@@ -40,3 +35,13 @@ Below is a list of programming languages, frameworks, and tools that I frequentl
 
 #### Productivity and Office Tools
 [![Firefox Browser](https://img.shields.io/badge/Firefox_Browser-FF7139?style=for-the-badge&logo=Firefox-Browser&logoColor=white)](https://www.mozilla.org/firefox/) [![Google Chrome](https://img.shields.io/badge/Google_chrome-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white)](https://www.google.com/chrome/)
+
+# Let's Connect!
+
+If you have any questions, suggestions, or just want to chat, feel free to reach out through my social media or email. I’m always open to collaboration and new ideas!
+
+<div align="center">
+   <a href="https://www.instagram.com/m4tchur/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+   <a href="https://open.spotify.com/user/hgc7ly5yjryzt3qgvo4uab77y?si=daa7d45097af43e8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
+   <a href="mailto:ma.usv@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</div>
