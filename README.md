@@ -56,5 +56,5 @@ If you have any questions, suggestions, or just want to chat, feel free to reach
    <a href="https://open.spotify.com/user/hgc7ly5yjryzt3qgvo4uab77y?si=daa7d45097af43e8" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"></a> 
    <a href="mailto:ma.usv@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-
+<br>
 <img src="footer_1.gif" alt="Footer GIF">
