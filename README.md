@@ -4,6 +4,7 @@
 
 Here, you'll find a collection of my projects, showcasing my skills and interests in various technologies. Feel free to explore the repositories.
 
+<div align="center"><img src="bar_1.png" alt="barra_separa"></div>
 
 ### GitHub Stats
 Some insights into my GitHub activity and the languages I use the most.
@@ -12,6 +13,8 @@ Some insights into my GitHub activity and the languages I use the most.
    <img src="https://github-readme-stats.vercel.app/api?username=matchur&show_icons=true&theme=chartreuse-dark&locale=pt-br&count_private=true" alt="matchur" />
    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=matchur&layout=compact&theme=chartreuse-dark&locale=pt-br" alt="matchur" />
 </div>
+
+<div align="center"><img src="bar_1.png" alt="barra_separa"></div>
 
 ### Languages and Tools:
 Below is a list of programming languages, frameworks, and tools that I frequently use and enjoy working with.
@@ -46,6 +49,8 @@ Below is a list of programming languages, frameworks, and tools that I frequentl
          </td>
    </tr>
 </table>
+
+<div align="center"><img src="bar_1.png" alt="barra_separa"></div>
 
 # Let's Connect!
 
